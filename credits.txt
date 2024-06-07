@@ -1,0 +1,20 @@
+******************************************************************************************
+    The developer does not have any relationship with any of the names mentioned here!
+    All resources by third parts used are free!
+******************************************************************************************
+
+========== MUSIC ==========
+- [0] "Funny Song" by "Benjamin Tissot" available at "https://www.bensound.com/royalty-free-music/track/funny-song", license code: C34IQMYKALTVD3DY;
+- [1] "Jazzy Frenchy" by "Happy Fingers" available at "https://www.bensound.com/royalty-free-music/track/jazzy-frenchy-upbeat-funny", license code: JHYBSF0J7ZI2YSXX;
+- [2] "Jazz Comedy" by "Happy Fingers" available at "https://www.bensound.com/royalty-free-music/track/jazz-comedy", license code: GAFA8LI60JGZPT0W;
+- [3] "Smile" by "Happy Fingers" available at "https://www.bensound.com/royalty-free-music/track/jazz-comedy", license code: BUIZLQCEVBFBNOWD;
+
+========== SOUND ==========
+- [x] "UI 03" by "rhodesmas" available at "https://freesound.org/people/rhodesmas/sounds/380292";
+- [o] "UI 04" by "rhodesmas" available at "https://freesound.org/people/rhodesmas/sounds/380291";
+
+========== FONT ==========
+- "Lato" by "Łukasz Dziedzic" available at "https://fonts.google.com/specimen/Lato";
+
+========== ICONS ==========
+- Some icons were made by "Google" available at "https://fonts.google.com/icons";
