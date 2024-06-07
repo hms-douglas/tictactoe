@@ -1650,8 +1650,8 @@
 
         static #ENABLED = true;
 
-        static #SOUND_CLICK_O = new Audio("audio/sound/o.wav");
-        static #SOUND_CLICK_X = new Audio("audio/sound/x.wav")
+        static #SOUND_CLICK_O = new Audio("/audio/sound/o.wav");
+        static #SOUND_CLICK_X = new Audio("/audio/sound/x.wav")
 
         static init() {
             Sound.#ENABLED = (localStorage.getItem(Sound.#STORAGE_KEY) || "true") === "true";
@@ -1696,10 +1696,10 @@
         static #ENABLED = true;
 
         static #MUSICS = [
-            new Audio("audio/music/0.mp3"),
-            new Audio("audio/music/1.mp3"),
-            new Audio("audio/music/2.mp3"),
-            new Audio("audio/music/3.mp3")
+            new Audio("/audio/music/0.mp3"),
+            new Audio("/audio/music/1.mp3"),
+            new Audio("/audio/music/2.mp3"),
+            new Audio("/audio/music/3.mp3")
         ];
 
         static #CURRENT;
