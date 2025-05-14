@@ -47,7 +47,13 @@ Other game modes, they are:
 <br/>
 <h2>Donations</h2>
 
-If you would like to support me, you can make a donation using <a href="https://www.paypal.com/donate/?hosted_button_id=JT8L3MX5MF74C">this link</a>
+If you would like to support me, you can make a donation using <a href="https://www.paypal.com/donate/?hosted_button_id=JT8L3MX5MF74C">this link</a>. Or use one of the options bellow. thanks!
+</br>
+
+ Coin | Address
+----|----|
+Bitcoin | 3NkK4LMwMhKefe2phqf7Vrp1uQynu1Gs6x
+Ethereum | 0xfea5dd21ebf73c5b4a2445c7713f6b5316dfac4d
 
 <br/>
 <h2>Log</h2>
